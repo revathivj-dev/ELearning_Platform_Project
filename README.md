@@ -44,7 +44,3 @@ A data-driven project analyzing learner spending, course performance, and catego
 Technical skill courses (Programming, Data Analysis) are the primary revenue drivers.  
 Business and Marketing courses need stronger positioning.  
 Leveraging **cross-selling** and **regional targeting** will maximize learner engagement and profitability.
-
----
-
-## 📂 Project Structure
